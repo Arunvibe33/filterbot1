@@ -16,7 +16,7 @@
       "inline"
     ],
     "website": "https://github.com/EvamariaTG/EvaMaria",
-    "repository": "https://github.com/EvamariaTG/EvaMaria",
+    "repository": "https://github.com/Arunvibe33/filterbot1",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
